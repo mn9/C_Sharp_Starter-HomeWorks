@@ -10,7 +10,7 @@ namespace _004
     {
         static void Main()
         {
-            int ddd;
+            int fff;
 
             Console.WriteLine();
             
