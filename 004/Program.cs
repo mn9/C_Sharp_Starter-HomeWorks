@@ -10,7 +10,7 @@ namespace _004
     {
         static void Main()
         {
-            int cc;
+            int gg;
 
             Console.WriteLine();
             
