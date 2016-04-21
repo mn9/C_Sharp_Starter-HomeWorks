@@ -1,0 +1,12 @@
+d:\documents\documents\visual studio 2015\Projects\Data Types_WindowsFormsApplication\Data Types_WindowsFormsApplication\bin\Debug\Data Types_WindowsFormsApplication.exe.config
+d:\documents\documents\visual studio 2015\Projects\Data Types_WindowsFormsApplication\Data Types_WindowsFormsApplication\bin\Debug\Data Types_WindowsFormsApplication.exe
+d:\documents\documents\visual studio 2015\Projects\Data Types_WindowsFormsApplication\Data Types_WindowsFormsApplication\bin\Debug\Data Types_WindowsFormsApplication.pdb
+d:\documents\documents\visual studio 2015\Projects\Data Types_WindowsFormsApplication\Data Types_WindowsFormsApplication\obj\Debug\Data Types_WindowsFormsApplication.csprojResolveAssemblyReference.cache
+d:\documents\documents\visual studio 2015\Projects\Data Types_WindowsFormsApplication\Data Types_WindowsFormsApplication\obj\Debug\Data_Types_WindowsFormsApplication.Form1.resources
+d:\documents\documents\visual studio 2015\Projects\Data Types_WindowsFormsApplication\Data Types_WindowsFormsApplication\obj\Debug\Data_Types_WindowsFormsApplication.Properties.Resources.resources
+d:\documents\documents\visual studio 2015\Projects\Data Types_WindowsFormsApplication\Data Types_WindowsFormsApplication\obj\Debug\Data Types_WindowsFormsApplication.csproj.GenerateResource.Cache
+d:\documents\documents\visual studio 2015\Projects\Data Types_WindowsFormsApplication\Data Types_WindowsFormsApplication\obj\Debug\Data Types_WindowsFormsApplication.exe
+d:\documents\documents\visual studio 2015\Projects\Data Types_WindowsFormsApplication\Data Types_WindowsFormsApplication\obj\Debug\Data Types_WindowsFormsApplication.pdb
+D:\Documents\Documents\Visual Studio 2015\Projects\C# Starter HomeWorks\Data Types_WindowsFormsApplication\bin\Debug\Data Types_WindowsFormsApplication.exe.config
+D:\Documents\Documents\Visual Studio 2015\Projects\C# Starter HomeWorks\Data Types_WindowsFormsApplication\obj\Debug\Data Types_WindowsFormsApplication.exe
+D:\Documents\Documents\Visual Studio 2015\Projects\C# Starter HomeWorks\Data Types_WindowsFormsApplication\obj\Debug\Data Types_WindowsFormsApplication.pdb

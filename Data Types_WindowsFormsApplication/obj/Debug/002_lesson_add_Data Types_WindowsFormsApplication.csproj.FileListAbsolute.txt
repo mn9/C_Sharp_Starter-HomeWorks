@@ -1,0 +1,9 @@
+D:\Documents\Documents\Visual Studio 2015\Projects\C# Starter HomeWorks\Data Types_WindowsFormsApplication\bin\Debug\Data Types_WindowsFormsApplication.exe.config
+D:\Documents\Documents\Visual Studio 2015\Projects\C# Starter HomeWorks\Data Types_WindowsFormsApplication\bin\Debug\Data Types_WindowsFormsApplication.exe
+D:\Documents\Documents\Visual Studio 2015\Projects\C# Starter HomeWorks\Data Types_WindowsFormsApplication\bin\Debug\Data Types_WindowsFormsApplication.pdb
+D:\Documents\Documents\Visual Studio 2015\Projects\C# Starter HomeWorks\Data Types_WindowsFormsApplication\obj\Debug\002_lesson_add_Data Types_WindowsFormsApplication.csprojResolveAssemblyReference.cache
+D:\Documents\Documents\Visual Studio 2015\Projects\C# Starter HomeWorks\Data Types_WindowsFormsApplication\obj\Debug\Data_Types_WindowsFormsApplication.Form1.resources
+D:\Documents\Documents\Visual Studio 2015\Projects\C# Starter HomeWorks\Data Types_WindowsFormsApplication\obj\Debug\Data_Types_WindowsFormsApplication.Properties.Resources.resources
+D:\Documents\Documents\Visual Studio 2015\Projects\C# Starter HomeWorks\Data Types_WindowsFormsApplication\obj\Debug\002_lesson_add_Data Types_WindowsFormsApplication.csproj.GenerateResource.Cache
+D:\Documents\Documents\Visual Studio 2015\Projects\C# Starter HomeWorks\Data Types_WindowsFormsApplication\obj\Debug\Data Types_WindowsFormsApplication.exe
+D:\Documents\Documents\Visual Studio 2015\Projects\C# Starter HomeWorks\Data Types_WindowsFormsApplication\obj\Debug\Data Types_WindowsFormsApplication.pdb
